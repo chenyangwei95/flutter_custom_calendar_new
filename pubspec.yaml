@@ -1,8 +1,8 @@
-name: flutter_custom_calendar
+name: flutter_custom_calendar_new
 description: A new Flutter Calendar package.
 version: 0.0.1
-author: xiaodong <450468291@qq.com>
-homepage: https://github.com/LXD312569496/flutter_custom_calendar
+author: Chenyang Wei
+homepage: https://github.com/chenyangwei95/flutter_custom_calendar_new
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
